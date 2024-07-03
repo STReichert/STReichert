@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm data scientist specializing in urban and regional planning and policy, specifically transportation issues. This is my personal github profile that includes independent research and expirimental projects, projects for grad school (my Master of Urban and Regional Planning at UCLA) my portfolio general portfolio, and other personal projects (such as a dungeons and dragons campaign wiki🐉). 
+I'm data scientist specializing in urban and regional planning and policy, specifically transportation issues. This is my personal github profile that includes independent research and expirimental projects, projects for grad school (my Master of Urban and Regional Planning at UCLA), my project portfolio, and other personal projects (such as a dungeons and dragons campaign wiki🐉). 
 
 I like any work that ivolves:
 - Spatial data science
