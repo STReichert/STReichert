@@ -13,7 +13,7 @@ I like any work that involves:
 🌱 I’m currently learning
 - Web development (Javascript, HTML, CSS)
 - Advanced data visualization (React, D3)
-- Py-Shiny app development
+- Rust
 
 <!--
 **STReichert/STReichert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
